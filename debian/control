@@ -8,6 +8,8 @@ Build-Depends:
  cmake (>= 3.4.3),
  pkg-config,
  libdrm-dev,
+ libx11-dev,
+ libxcb1-dev,
  libvulkan-dev (>= 1.3.275.0),
  libwayland-bin [linux-any],
  libwayland-client0 [linux-any],
